@@ -1,0 +1,4 @@
+./nightwatch/logs
+./nightwatch/reports
+./node_modules
+./DS_Store
