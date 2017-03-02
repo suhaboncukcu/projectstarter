@@ -1,4 +1,4 @@
-./nightwatch/logs
-./nightwatch/reports
-./node_modules
-./DS_Store
+nightwatch/logs
+nightwatch/reports
+node_modules
+.DS_Store
